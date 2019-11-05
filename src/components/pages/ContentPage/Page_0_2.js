@@ -1,5 +1,5 @@
 import React from 'react';
-import ContentPage from '.';
+import ContentPage from './';
 
 export const Page_0_2 = () => {
     return (
